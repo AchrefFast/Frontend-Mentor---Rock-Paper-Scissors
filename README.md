@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/AchrefFast/Frontend-Mentor---Rock-Paper-Scissors)
-- [Live Site URL](https://achreffast.github.io/Frontend-Mentor---Rock-Paper-Scissors)
+- [Live Site URL](https://frontend-mentor-rock-paper-scissors-pied.vercel.app/)
 
 ## My process
 
