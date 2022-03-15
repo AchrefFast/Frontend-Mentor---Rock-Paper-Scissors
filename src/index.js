@@ -5,6 +5,8 @@ import App from './App';
 import { Provider } from 'react-redux';
 import store from './store/index'
 
+document.title = 'Rock Paper Scissors';
+
 ReactDOM.render(
   <Provider store={store}>
     <App />
